@@ -14,5 +14,5 @@ El ejercicio uno consiste en correr el script main.py que se encuentra en la car
 4. Seguir las instrucciuones del scrip.
 
 ## NOTA
-** Es muy importante que cada uno haga el ejercicio por separado **
-** No hay problema que se ayuden mutuamente, pero si o si cada uno debe hacer los pasos por separado **
+**Es muy importante que cada uno haga el ejercicio por separado**
+**No hay problema que se ayuden mutuamente, pero si o si cada uno debe hacer los pasos por separado**
